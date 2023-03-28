@@ -1,0 +1,2 @@
+# CursoGIT
+se crea readme
